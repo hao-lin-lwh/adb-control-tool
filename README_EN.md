@@ -159,12 +159,3 @@ MIT License
 ## Author
 
 hao-lin-lwh
-
-## Changelog
-
-### V2.0
-- Completely new UI design
-- Enhanced script editor
-- Added more quick commands
-- Support multi-device management
-- Improved execution statistics function
