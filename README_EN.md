@@ -1,4 +1,4 @@
-# Android Automation Assistant V2
+# Android Automation Assistant
 
 A PyQt5-based Android device automation control tool that implements device control and script execution functions through ADB commands.
 
