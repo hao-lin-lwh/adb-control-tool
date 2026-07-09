@@ -1,3 +1,6 @@
+# README.md
+- en English[](README_EN.md)
+
 # Android 自动化助手
 
 一个基于 PyQt5 的 Android 设备自动化控制工具，通过 ADB 命令实现设备控制、脚本执行等功能。
