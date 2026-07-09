@@ -1,5 +1,5 @@
 # README.md
-- en English[](README_EN.md)
+- en [English](README_EN.md)
 
 # Android 自动化助手
 
